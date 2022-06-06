@@ -23,7 +23,7 @@ how to use:
 
 [❗️] PUT  3 BINS 6 NUMBER   AMERICA
 
-------------------------------------------
+---------------------------------------
 
 [❗️] PUT  2 BINS 12 NUMBER  WITHOUT  AMERICA
 
