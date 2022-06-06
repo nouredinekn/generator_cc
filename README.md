@@ -28,10 +28,10 @@ how to use:
 
 [❗️] PUT  2 BINS 12 NUMBER  WITHOUT  AMERICA
 
-----------------------------
+-------------------------------
 
 [❗️] PUT  ARE U NEED TO RANDOM DATE  OR NOT
-----------------------------
+--------------------------------
 
 [❗️] IF PUT NO  ENTRE YOUR DATE
 JUST  YEAR [ EXAMPLE= 2022]
