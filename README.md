@@ -1,4 +1,12 @@
-💥COMBO CC RANDOM MAKER 💥 !MIX COMBO  #NOUREDINE_KAOINE
+
+<h1 align="center"> 💥COMBO CC RANDOM MAKER 💥 !MIX COMBO </h1>
+<h2 align="center"> by Nouredine kaoine</h2>
+
+
+
+<h4 align="center">
+how to use
+<h4>
 
 -------------‐--------‐-----------------
 
@@ -30,7 +38,7 @@
 JUST  YEAR [ EXAMPLE= 2022]
 
 -------------‐--------‐-----------------
-BY NOUREDINE KAOINE
+
 
 DONATE :
 ❗️ PAYPAL:
