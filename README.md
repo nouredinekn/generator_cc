@@ -11,7 +11,7 @@ how to use:
 
 [❗️] PUT HOW MUCH NEED TO COMBO
 
--------------‐----
+--------------------------------------
 
 [❗️] PUT NAME IN THE FILLE TO SAVE COMBO
 
@@ -19,7 +19,7 @@ how to use:
 
 [❗️] PUT  4 BINS 6 NUMBER  WITHOUT  AMERICA 
 
--------------‐
+-------------‐-------------------------
 
 [❗️] PUT  3 BINS 6 NUMBER   AMERICA
 
