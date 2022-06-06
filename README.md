@@ -31,13 +31,12 @@ how to use:
 ----------------------------
 
 [❗️] PUT  ARE U NEED TO RANDOM DATE  OR NOT
-
--------------‐--------‐-----------------
+----------------------------
 
 [❗️] IF PUT NO  ENTRE YOUR DATE
 JUST  YEAR [ EXAMPLE= 2022]
 
-----------------------------
+
 
 
 
