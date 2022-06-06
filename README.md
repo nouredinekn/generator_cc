@@ -8,11 +8,10 @@
 how to use:
 <h3>
 
--------------‐--------‐-----------------
 
 [❗️] PUT HOW MUCH NEED TO COMBO
 
--------------‐--------‐-----------------
+-------------‐----
 
 [❗️] PUT NAME IN THE FILLE TO SAVE COMBO
 
@@ -20,7 +19,7 @@ how to use:
 
 [❗️] PUT  4 BINS 6 NUMBER  WITHOUT  AMERICA 
 
--------------‐--------‐-----------------
+-------------‐
 
 [❗️] PUT  3 BINS 6 NUMBER   AMERICA
 
@@ -28,19 +27,13 @@ how to use:
 
 [❗️] PUT  2 BINS 12 NUMBER  WITHOUT  AMERICA
 
--------------------------------
+----------------
 
 [❗️] PUT  ARE U NEED TO RANDOM DATE  OR NOT
---------------------------------
+----------------------------------------
 
-[❗️] IF PUT NO  ENTRE YOUR DATE
-JUST  YEAR [ EXAMPLE= 2022]
-
-
-
-
-
-
+[❗️] IF PUT NO  ENTRE YOUR DATE JUST  YEAR [ EXAMPLE= 2022]
+ -------------
 
   
 <h3 align="left">Connect with me:</h3>
